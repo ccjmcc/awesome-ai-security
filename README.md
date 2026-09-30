@@ -213,6 +213,7 @@ npx skills add https://github.com/gmh5225/awesome-ai-security --skill ai-powered
 - https://github.com/Yanlewen/TradeTrap [TradeTrap - test LLM-based trading agents: prompt injection, MCP hijacking, state tampering, memory poisoning; AI-Trader/Valuecell]
 - https://github.com/humanbound/humanbound [Humanbound - open-source CLI that runs LLM-generated adversarial attacks against an agent's HTTP endpoint, scored against OWASP LLM Top 10, OWASP Agentic Top 10, NIST, and EU AI Act mappings]
 - https://github.com/toby-bridges/api-relay-audit [API Relay Audit - local audit CLI for AI API relays and LLM proxies; probes for prompt injection signals, package-command changes, error-response leakage, and Anthropic SSE anomalies; Markdown reports]
+- https://github.com/taoq-ai/ziran [Ziran - security testing framework for AI agents: graph-based tool chain discovery, execution-level side-effect detection, multi-phase campaigns; LangChain, CrewAI, MCP, A2A, remote HTTP]
 
 ### AI Security MCP Tools
 - https://github.com/tomelias10/mcp-drift-check [MCP Drift Check — passive local Python CLI that statically flags mutable/unpinned npm/npx package references in MCP client configs; does not execute servers, download packages, or upload configs; MIT]
